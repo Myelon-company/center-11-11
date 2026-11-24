@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "placeholder": false,
+  "flowers": {
+    "rose": {
+      "src": "/bouquet/rose.webp",
+      "size": 1
+    },
+    "tulip": {
+      "src": "/bouquet/tulip.webp",
+      "size": 1
+    },
+    "lily": {
+      "src": "/bouquet/lily.webp",
+      "size": 1
+    },
+    "gerbera": {
+      "src": "/bouquet/gerbera.webp",
+      "size": 1
+    },
+    "sunflower": {
+      "src": "/bouquet/sunflower.webp",
+      "size": 1
+    },
+    "carnation": {
+      "src": "/bouquet/carnation.webp",
+      "size": 1
+    },
+    "gypsophila": {
+      "src": "/bouquet/gypsophila.webp",
+      "size": 0.9
+    },
+    "eucalyptus": {
+      "src": "/bouquet/eucalyptus.webp",
+      "size": 0.9
+    }
+  },
+  "wrappings": {
+    "wrap_paper": {
+      "back": "/bouquet/wrap_paper_back.webp",
+      "front": "/bouquet/wrap_paper_front.webp",
+      "mouth": {
+        "x": 0.149,
+        "y": 0.044,
+        "w": 0.702,
+        "h": 0.52
+      }
+    },
+    "wrap_box": {
+      "back": "/bouquet/wrap_box_back.webp",
+      "front": "/bouquet/wrap_box_front.webp",
+      "mouth": {
+        "x": 0.11,
+        "y": 0.237,
+        "w": 0.78,
+        "h": 0.36
+      }
+    },
+    "wrap_basket": {
+      "back": "/bouquet/wrap_basket_back.webp",
+      "front": "/bouquet/wrap_basket_front.webp",
+      "mouth": {
+        "x": 0.137,
+        "y": 0.183,
+        "w": 0.726,
+        "h": 0.4
+      }
+    }
+  },
+  "ribbon": {
+    "src": "/bouquet/ribbon.webp",
+    "at": {
+      "x": 0.5,
+      "y": 0.58
+    },
+    "width": 0.36
+  }
+}
